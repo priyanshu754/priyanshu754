@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyanshu 
-- 👀 I’m interested in 
+- 👀 I’m interested in exploring something new.
 - 🌱 I’m currently learning c++ with DSA.
 
 
